@@ -1,0 +1,3 @@
+# Synchroniser
+
+This Eurorack module is a hand-solderable 4hp version of [Hagiwo's Clock Sync LFO](https://note.com/solder_state/n/n4c600f2431c3). It is based on [the schematics and design by mzuelch](https://github.com/mzuelch/CATs-Eurosynth/tree/main/Modules/HAGIWO/Sync%20LFO) but adds a couple of buttons and an extra LED. It is Arduino Nano based and compatible with firmware released by [mzuelch](https://github.com/mzuelch/CATs-Eurosynth/tree/main/Modules/HAGIWO/Sync%20LFO/Firmware), [Awonak](https://github.com/awonak/HagiwoModulove/tree/main/SyncLFO) and [Modulove](https://dl.modulove.de/module/synclfo/).
